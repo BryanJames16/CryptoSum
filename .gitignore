@@ -1,5 +1,6 @@
 # Compiled distribution
 dist/
+build/
 
 # Log file
 *.log
